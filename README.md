@@ -20,7 +20,7 @@ A real-time computer vision application that analyzes live blackjack card tables
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/blackjack-analyzer.git
+git clone https://github.com/advaitb27/blackjack-analyzer.git
 cd blackjack-analyzer
 ```
 
