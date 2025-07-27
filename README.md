@@ -120,27 +120,5 @@ Edit `ui_overlay.py` to change:
 
 ## Future Improvements
 
-- Machine learning-based card recognition for higher accuracy
-- Support for multiple deck detection and tracking
-- Historical hand tracking and statistics
-- Integration with casino table layouts
-- Voice command support
-- Mobile app version
-
-## Legal Notice
-
-This application is for educational purposes only. Using electronic devices to gain an advantage in casino games may be prohibited. Always follow casino rules and local regulations.
-
-## License
-
-MIT License - See LICENSE file for details
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## Acknowledgments
-
-- OpenCV community for computer vision tools
-- Basic strategy tables from Wizard of Odds
-- Hi-Lo counting system by Harvey Dubner
+- Support for Poker and other card games
+- Implementation for Snapchat Spectacles or another AR device to allow an overlay over what you see in real life
